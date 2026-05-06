@@ -33,5 +33,5 @@ Core work:
 - Japanese (N5 in progress)
 
 ## 🤝 Connect with me
-LinkedIn: [www.linkedin.com/in/anahazelgarcia]
+LinkedIn: [Hazel Garcia] [www.linkedin.com/in/anahazelgarcia]
 GitHub: https://github.com/HazelGarcia1507
